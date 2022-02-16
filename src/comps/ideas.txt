@@ -1,0 +1,31 @@
+
+<div className="container mt65 m15">
+    <div className="card">
+        <div className="que">
+            <p>
+
+            </p>
+        </div>
+    </div>
+    <div className="box mt15">
+        <ul className="answers">
+            <li className="space-between">
+                <span>This is 1st ans</span>
+                <span className="fa red fa-times-circle"></span>
+            </li>
+            <li className="space-between">
+                <span>This is 2nd ans</span>
+            </li>
+            <li className="space-between">
+                <span>This is 3rd ans</span>
+                <span className="fa green fa-check-circle"></span>
+            </li>
+            <li className="space-between">
+                <span>This is 4th ans</span>
+            </li>
+        </ul>
+    </div>
+    <button className="btn mt10 btn-md  btn-block">
+        next
+    </button>
+</div>

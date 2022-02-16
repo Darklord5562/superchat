@@ -1,0 +1,37 @@
+[
+	{
+		"qn" : "If they could be an animal, what would your best friend be?",
+		"options" : ["Cat", "Dog", "fish", "Birds", "Others"]
+	},
+	{
+		"qn": "What profession would your best friend most like to have ?",
+		"options": ["9 To 5 job", "Business", "Freelancing", "Trading", "Others"]
+	},
+	{
+		"qn": "What is your best friend 's favorite school subject?",
+		"options": ["Maths", "Science", "Literature", "Social Studies", "Art & Culture"]
+	},
+	{
+		"qn": "Which type of movie does your best friend like best ?",
+		"options": ["Comedy", "Horror", "Romance", "Action", "Sci-Fi", "Others"]
+	},
+	{
+		"qn": "What size shoe does your best friend wear ?",
+		"options": ["Less than 5", "5", "6", "7", "8", "Above 8"]
+	},
+	{
+		"qn": "How many brothers or sisters do I have ?",
+		"options": ["Only Child", "1", "2", "3","4", "More than 4"]
+	},
+	{
+		"qn": "What is my favorite type of music ?",
+		"options": ["Sufi", "Lofi", "Party", "Slow Motion", "Remake"]
+	},
+	{
+		"qn": "What is my favorite item of clothing ?",
+		"options": ["Ethnic", "Trditional", "Tending", "Simple"]
+	},{
+		"qn": "Am I more afraid of spiders or snakes ?",
+		"options": ["Yes", "No"]
+	}
+]

@@ -1,0 +1,21 @@
+.box ul li{
+	padding: 20px;
+}
+.box ul li:not(:last-child){
+	border-bottom: 1px solid #cccccc;
+}
+.box ul li:hover{
+	background: #E1E1E1;
+}
+
+
+
+.que p{
+	font-weight: 900;
+	font-size: 1.2rem;
+}
+
+.score{
+	width: max-content;
+	left: 0;
+}
